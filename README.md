@@ -1,4 +1,5 @@
 # Task bot
+A bot for issuing tasks and sending them for verification.
 
 ## Cloning
 ```Bash
