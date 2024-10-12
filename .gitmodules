@@ -1,0 +1,15 @@
+[submodule "lib/FastBot2"]
+	path = lib/FastBot2
+	url = https://github.com/GyverLibs/FastBot2.git
+[submodule "lib/GSON"]
+	path = lib/GSON
+	url = https://github.com/GyverLibs/GSON.git
+[submodule "lib/StringUtils"]
+	path = lib/StringUtils
+	url = https://github.com/GyverLibs/StringUtils.git
+[submodule "lib/GyverHTTP"]
+	path = lib/GyverHTTP
+	url = https://github.com/GyverLibs/GyverHTTP.git
+[submodule "lib/GTL"]
+	path = lib/GTL
+	url = https://github.com/GyverLibs/GTL.git
